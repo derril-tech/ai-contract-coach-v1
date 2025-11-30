@@ -1,4 +1,4 @@
-# ⚖️ ContractCoach
+# ⚖️ AI ContractCoach
 **AI-Powered Contract Review with OpenAI SDK**
 
 
