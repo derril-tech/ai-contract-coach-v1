@@ -2,8 +2,6 @@
 **AI-Powered Contract Review with OpenAI SDK**
 
 
-🌐 **See the Live Application**: [https://ai-contract-coach.vercel.app/](https://ai-contract-coach.vercel.app/)
-
 > **Turn dense contracts into clear guidance. Import agreements from Google Drive, extract key clauses, flag risky terms, and get plain English explanations—so you can negotiate with confidence.** ⚡
 
 ---
